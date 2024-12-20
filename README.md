@@ -24,7 +24,7 @@ This project integrates various sensors (RTC, MQ 135, DHT11) with an OLED displa
 
 ### Hardware
 
-- **ESP32** or any compatible microcontroller.
+- **ESP32** or any Arduino Uno Board
 - **MQ 135 Sensor**
 - **DHT11 Sensor**
 - **RTC Module**
