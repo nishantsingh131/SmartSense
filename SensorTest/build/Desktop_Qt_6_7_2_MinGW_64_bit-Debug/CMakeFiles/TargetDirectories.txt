@@ -1,0 +1,9 @@
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/SensorTest.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/SensorTest_autogen_timestamp_deps.dir
+C:/Users/nisha/Desktop/Firmware Project/SensorTest/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/SensorTest_autogen.dir
